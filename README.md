@@ -21,7 +21,7 @@
 - 개발 인원 : 최소원, 오윤택, 한혜성, 이정아, 황소현, 이동준
 - 역할 [팀명 : 👖 청바지! (**청**춘은 **바**로 **지**금)]
 
-![image-20220217110821914](/uploads/7e90f703863f90c8c09d410b7b65086e/image-20220217110821914.png)
+![member](Outputs/assets/member.png)
 
 
 
@@ -43,13 +43,13 @@
 
 ### 쑥쑥 기획 배경
 
-![image-20220217142354401](/uploads/c61f4b9bc77668e5981038f5aa75b7ef/image-20220217142354401.png)
+![greenhobby](Outputs/assets/greenhobby.png)
 
 
 
 ### 쑥쑥 기능
 
-![image-20220217141932047](/uploads/3b76d761b4b3864babaf9cefe83eb8ec/image-20220217141932047.png)
+![info](Outputs/assets/info.png)
 
 
 
@@ -57,7 +57,7 @@
 
 ## 3. 기술 스택
 
-![image-20220217111527030](/uploads/3627a683775b974b7d33c09c0c8f85de/image-20220217111527030.png)
+![techstack](Outputs/assets/techstack.png)
 
 
 
@@ -65,19 +65,14 @@
 
 ## 4. 형상 관리
 
-### [`Notion`](https://www.notion.so/5934c5579cec4460818bad76641363d0?v=700fdcd203754c4088ba9a5bd50e91aa)
+### [`Notion Link`](https://nervous-grip-dfd.notion.site/9e17e7afd47548138d53c2eeff7f2325)
+![notion](Outputs/assets/notion.png)
 
-![image-20220217135053385](/uploads/cd58f97ae4411b1eb1896aacafd2a842/image-20220217135053385.png)
+### [`Jira Link`](https://bronzed-gateway-8e0.notion.site/JIRA-1d2c1288517c45719a3fc98346f8d153)
 
-![image-20220217135147963](/uploads/46462d80a92d04ad5efbb5463baef8dc/image-20220217135147963.png)
+![techstack](Outputs/assets/jira.png)
 
-
-
-### [`Jira`](https://www.notion.so/JIRA-1d2c1288517c45719a3fc98346f8d153)
-
-![image-20220217140116170](/uploads/6c05b99db730c2853aec2166d25a7b14/image-20220217140116170.png)
-
-![image-20220217140801762](/uploads/575c47660ab163879d80fe3f5f9dfd76/image-20220217140801762.png)
+![techstack](Outputs/assets/burndown.png)
 
 
 
@@ -97,25 +92,25 @@
 
 ### 주기능 1-1. 내농장 히스토리
 
-![image-20220217142504927](/uploads/b4786bc64d1ff59c3ec72cec8956d836/image-20220217142504927.png)
+![history](Outputs/assets/history.png)
 
 
 
 ### 주기능 1-2. 내농장 상태
 
-![image-20220217142600236](/uploads/3ba7c33341f066170d8a8b1f96ec36b3/image-20220217142600236.png)
+![status](Outputs/assets/status.png)
 
 
 
 ### 주기능 1-3. 내농장 이미지
 
-![image-20220217142623686](/uploads/cea5f51704e3f34ca6c0ad97e30fe822/image-20220217142623686.png)
+![farmimg](Outputs/assets/farmimg.png)
 
 
 
 ### 주기능 2. 커뮤니티
 
-![image-20220217142715089](/uploads/cce638001599b29098506f78b9f433ce/image-20220217142715089.png)
+![community](Outputs/assets/community.png)
 
 
 
@@ -123,7 +118,8 @@
 
 ## 6. ERD [DB Modeling]
 
-![image-20220217162548594](/uploads/d3ea2396a391b9cd4fd2e0b795c8e781/image-20220217162548594.png)
+
+![erd](Outputs/assets/erd.png)
 
 
 
